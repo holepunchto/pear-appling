@@ -1,0 +1,3 @@
+[submodule "cmake/pear"]
+	path = cmake/pear
+	url = ../../holepunchto/cmake-pear.git
