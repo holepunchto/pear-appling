@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.25)
 
-project(pear_appling)
+project(pear_appling C)
 
 include(pear)
 
