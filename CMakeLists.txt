@@ -14,6 +14,11 @@ add_pear_appling(
 
   MACOS_IDENTIFIER io.keet.app
   MACOS_CATEGORY public.app-category.developer-tools
+  MACOS_SIGNING_IDENTITY "<TODO>"
+  MACOS_SIGNING_ENTITLEMENTS "<TODO>"
+
+  WINDOWS_SIGNING_SUBJECT "<TODO>"
+  WINDOWS_SIGNING_SUBJECT_NAME "<TODO>"
 
   LINUX_CATEGORY AudioVideo
 )
