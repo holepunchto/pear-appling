@@ -9,7 +9,7 @@ add_pear_appling(
   KEY keet
   NAME Keet
   VERSION 2.2.0
-  PUBLISHER Holepunch
+  AUTHOR Holepunch
   DESCRIPTION "Chat directly with your friends. Send messages, files, high quality videos and photos with no limitations. Private and Encrypted. Always Peer-to-Peer. Never on a server."
 
   MACOS_IDENTIFIER io.keet.app
