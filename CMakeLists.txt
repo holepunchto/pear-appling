@@ -15,10 +15,6 @@ add_pear_appling(
   MACOS_IDENTIFIER io.keet.app
   MACOS_CATEGORY public.app-category.developer-tools
   MACOS_ENTITLEMENTS
-    com.apple.security.cs.allow-jit
-    com.apple.security.cs.allow-unsigned-executable-memory
-    com.apple.security.cs.allow-dyld-environment-variables
-    com.apple.security.cs.disable-library-validation
     com.apple.security.device.microphone
     com.apple.security.device.audio-input
     com.apple.security.device.camera
