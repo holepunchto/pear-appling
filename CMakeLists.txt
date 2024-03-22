@@ -6,22 +6,18 @@ include(pear)
 
 add_pear_appling(
   pear_appling
-  KEY keet
-  NAME Keet
-  VERSION 2.2.0
-  AUTHOR Holepunch
-  DESCRIPTION "Chat directly with your friends. Send messages, files, high quality videos and photos with no limitations. Private and Encrypted. Always Peer-to-Peer. Never on a server."
+  KEY "<z32-key>"
+  NAME "<string>"
+  VERSION 1.0.0
+  AUTHOR "<string>"
+  DESCRIPTION "<string>"
 
-  MACOS_IDENTIFIER io.keet.app
-  MACOS_CATEGORY public.app-category.developer-tools
-  MACOS_ENTITLEMENTS
-    com.apple.security.device.microphone
-    com.apple.security.device.audio-input
-    com.apple.security.device.camera
-  MACOS_SIGNING_IDENTITY "<TODO>"
+  MACOS_IDENTIFIER <namespace>
+  MACOS_CATEGORY <category>
+  MACOS_SIGNING_IDENTITY <id>
 
-  WINDOWS_SIGNING_SUBJECT "<TODO>"
-  WINDOWS_SIGNING_THUMBPRINT "<TODO>"
+  WINDOWS_SIGNING_SUBJECT "<string>"
+  WINDOWS_SIGNING_THUMBPRINT <sha1>
 
-  LINUX_CATEGORY AudioVideo
+  LINUX_CATEGORY <category>
 )
