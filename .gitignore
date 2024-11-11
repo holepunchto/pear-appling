@@ -1,4 +1,4 @@
 build/
 install/
-corestore/
-prebuilds/
+node_modules/
+package-lock.json

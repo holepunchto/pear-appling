@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.25)
 
-project(pear_appling C)
+find_package(cmake-pear REQUIRED PATHS node_modules/cmake-pear)
 
-include(pear)
+project(pear_appling C)
 
 add_pear_appling(
   pear_appling
