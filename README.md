@@ -9,7 +9,6 @@ Replace the placeholders in [`CMakeLists.txt`](CMakeLists.txt) with appropriate 
 ```console
 bare-make generate
 bare-make build
-bare-make install
 ```
 
 ## License
