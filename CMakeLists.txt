@@ -1,12 +1,12 @@
-cmake_minimum_required(VERSION 3.25)
+cmake_minimum_required(VERSION 3.31)
 
 find_package(cmake-pear REQUIRED PATHS node_modules/cmake-pear)
 
-project(pear_appling C)
+project(pear_appling C CXX ASM)
 
 add_pear_appling(
   pear_appling
-  KEY "<z32-key>"
+  ID "<z32-key>"
   NAME "<string>"
   VERSION 1.0.0
   AUTHOR "<string>"
