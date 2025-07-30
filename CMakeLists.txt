@@ -7,8 +7,8 @@ project(pear_appling C CXX ASM)
 add_pear_appling(
   pear_appling
   ID "<z32-key>"
-  LINK "<z32-key>"
   NAME "<string>"
+  LINK "<z32-key>"
   VERSION 1.0.0
   AUTHOR "<string>"
   DESCRIPTION "<string>"
