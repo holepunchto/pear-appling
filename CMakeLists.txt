@@ -20,5 +20,5 @@ add_pear_appling(
   WINDOWS_SIGNING_SUBJECT "<string>"
   WINDOWS_SIGNING_THUMBPRINT <sha1>
 
-  LINUX_CATEGORY <category>
+  LINUX_CATEGORY Utility
 )
