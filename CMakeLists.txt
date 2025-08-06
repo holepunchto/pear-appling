@@ -6,16 +6,16 @@ project(pear_appling C CXX ASM)
 
 add_pear_appling(
   pear_appling
-  ID "<z32-key>"
-  NAME "<string>"
-  LINK "<string>"
+  ID "dhpc5npmqkansx38uh18h3uwpdp6g9ukozrqyc4irbhwriedyeho"
+  NAME "pear-doctor-next"
+  LINK "pear://pkdsoio8aaka3spbums7k6yw5nxj1mw3y3rdw75kj4p51j3i7ago"
   VERSION 1.0.0
-  AUTHOR "<string>"
-  DESCRIPTION "<string>"
+  AUTHOR "Holepunch"
+  DESCRIPTION "Temp"
 
   MACOS_IDENTIFIER <namespace>
   MACOS_CATEGORY <category>
-  MACOS_SIGNING_IDENTITY <id>
+  MACOS_SIGNING_IDENTITY -
 
   WINDOWS_SIGNING_SUBJECT "<string>"
   WINDOWS_SIGNING_THUMBPRINT <sha1>
