@@ -15,7 +15,7 @@ add_pear_appling(
 
   MACOS_IDENTIFIER com.holepunch.keetnext
   MACOS_CATEGORY public.app-category.utilities
-  MACOS_SIGNING_IDENTITY ""
+  MACOS_SIGNING_IDENTITY "-"
 
   WINDOWS_SIGNING_SUBJECT "<string>"
   WINDOWS_SIGNING_THUMBPRINT <sha1>
