@@ -8,7 +8,7 @@ add_pear_appling(
   pear_appling
   ID "dhpc5npmqkansx38uh18h3uwpdp6g9ukozrqyc4irbhwriedyeho"
   NAME "Keet"
-  LINK "pear://ma9zo8zmfat3ih314mne1q47shrfho1odyfm9methgnn7b866w6y"
+  LINK "pear://oeeoz3w6fjjt7bym3ndpa6hhicm8f8naxyk11z4iypeoupn6jzpo"
   VERSION 1.0.0
   AUTHOR "Holepunch"
   DESCRIPTION "Example appling"
