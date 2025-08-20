@@ -12,9 +12,9 @@ bare-make generate
 bare-make build
 ```
 
-## Reference
+## References
 
-* [API reference](https://github.com/holepunchto/cmake-pear#api)
+* [cmake-pear API](https://github.com/holepunchto/cmake-pear#api)
 * [keet-appling](https://github.com/holepunchto/keet-appling/blob/main/CMakeLists.txt)
 
 ## License
