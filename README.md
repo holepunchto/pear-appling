@@ -10,7 +10,6 @@ Replace the placeholders in [`CMakeLists.txt`](CMakeLists.txt) with appropriate 
 npm i
 bare-make generate
 bare-make build
-bare-make test
 ```
 
 ## References
