@@ -1,6 +1,8 @@
 {
-  "private": true,
   "name": "pear-appling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
   "description": "Template repository for creating Pear applings",
   "repository": {
     "type": "git",
