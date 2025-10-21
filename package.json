@@ -13,6 +13,6 @@
   },
   "homepage": "https://github.com/holepunchto/pear-appling#readme",
   "devDependencies": {
-    "cmake-pear": "^3.0.0"
+    "cmake-pear": "^2.0.0"
   }
 }

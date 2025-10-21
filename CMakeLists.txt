@@ -8,7 +8,6 @@ add_pear_appling(
   pear_appling
   ID "<z32-key>"
   NAME "<string>"
-  LINK "<string>"
   VERSION 1.0.0
   AUTHOR "<string>"
   DESCRIPTION "<string>"
