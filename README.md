@@ -4,18 +4,14 @@ Template repository for creating Pear applings.
 
 ## Building
 
-Replace the placeholders in [`CMakeLists.txt`](CMakeLists.txt) with appropriate values and then build the appling using [bare-make](https://github.com/holepunchto/bare-make):
+Replace the placeholders in [`CMakeLists.txt`](CMakeLists.txt) with appropriate values and then build the appling:
 
 ```console
+npm i -g bare-make
 npm i
 bare-make generate
 bare-make build
 ```
-
-## References
-
-* [cmake-pear API](https://github.com/holepunchto/cmake-pear#api)
-* [keet-appling](https://github.com/holepunchto/keet-appling/blob/main/CMakeLists.txt)
 
 ## License
 
