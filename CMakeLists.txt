@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.31)
+cmake_minimum_required(VERSION 4.0)
 
 find_package(cmake-pear REQUIRED PATHS node_modules/cmake-pear)
 
@@ -8,7 +8,6 @@ add_pear_appling(
   pear_appling
   ID "<z32-key>"
   NAME "<string>"
-  LINK "<string>"
   VERSION 1.0.0
   AUTHOR "<string>"
   DESCRIPTION "<string>"
